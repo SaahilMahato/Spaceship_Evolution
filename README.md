@@ -1,2 +1,2 @@
 # SpaseShip_Evolution
-Train spaceships to avoid asteroids using Neural Evolution of Augmented Topologies
+Train spaceships to avoid asteroids using Neuroevolution of augmenting topologies
